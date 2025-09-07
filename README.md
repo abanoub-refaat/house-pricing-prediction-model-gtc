@@ -41,18 +41,18 @@ In this project, I:
 4. **Evaluation**
    - Metrics: RMSE, MAE, R²
 
-## 📈 Results
+## Results
 
 - The best-performing model achieved **[insert your result here]**.
 - Top features impacting house prices were **[list top features]**.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning for better accuracy
 - Adding more external features (e.g., neighborhood info, economic indicators)
 - Deploying the model as a web app (Flask/Streamlit)
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - **GTC Internship Program** for the opportunity
 - Dataset source: [https://www.kaggle.com/datasets/camnugent/california-housing-prices/data]
